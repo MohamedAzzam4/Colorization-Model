@@ -1,6 +1,6 @@
 # Colorization-Model
 
-
+<img src="assets/preview.png" alt="preview.png" width="70%" />
 
 ### **Project Summary**
 
