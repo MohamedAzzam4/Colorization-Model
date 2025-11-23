@@ -1,7 +1,7 @@
 # Colorization-Model
 
-<img src="assets/Colorization model.png" alt="preview.png" width="70%" />
-<img src="assets/preview.png" alt="preview.png" width="70%" />
+<img src="assets/Colorization model.png" alt="preview.png" width="100%" />
+
 
 ### **Project Summary** 🏞️
 
